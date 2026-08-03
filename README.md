@@ -2,6 +2,8 @@
 
 **Software Engineer · MSc in Numerical Simulations · Santiago, Chile (open to remote)**
 
+[![committers.top badge](https://user-badge.committers.top/chile/fcarvajalbrown.svg)](https://user-badge.committers.top/chile/fcarvajalbrown)
+
 > Born to dream, made to work.
 
 I write code in Rust, Python and TypeScript, and I got to software the slow way, from construction engineering in Chillán and a camera on my shoulder in Ñuble to a master's in numerical simulations. In my own time, with my own hands, I build tools for the public good and give them away for free, not because I have time or money to spare, but out of conviction. Why? Because good software is not a luxury good, it is infrastructure, and infrastructure belongs to people.
