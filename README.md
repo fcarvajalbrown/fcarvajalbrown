@@ -1,6 +1,6 @@
 # Felipe Carvajal Brown
 
-**Software Engineer · MSc in Numerical Simulations · Santiago, Chile (open to remote)**
+**MSc in Numerical Simulations · Santiago, Chile (open to remote)**
 
 [![committers.top badge](https://user-badge.committers.top/chile/fcarvajalbrown.svg)](https://user-badge.committers.top/chile/fcarvajalbrown)
 
@@ -17,7 +17,7 @@ I write code in Rust, Python and TypeScript, and I got to software the slow way,
 
 ## Things I'm proud of
 - **[MaskOps](https://github.com/fcarvajalbrown/MaskOps):** high-speed PII masking as a Polars plugin, with the heavy lifting in Rust. Privacy that does not cost you your throughput.
-- **[MuniANCI](https://github.com/fcarvajalbrown/MuniANCI):** a cybersecurity compliance scanner, written in Rust, that audits Chilean public agencies against Law 21.663. The law set the bar. This checks who clears it.
+- **[MuniGPT](https://github.com/fcarvajalbrown/MuniGPT):** a cybersecurity compliance scanner and an offline legal assistant, written in Rust, that audits Chilean public agencies against Law 21.663 without sending a byte off the machine. The law set the bar. This checks who clears it.
 - **[Keel](https://github.com/fcarvajalbrown/Keel):** a deterministic, open-source Python engine that mixes finished stems and masters them to an exact LUFS target. Same input, same master, every time.
 
 ## Open to work
