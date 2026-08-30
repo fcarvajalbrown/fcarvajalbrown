@@ -3,7 +3,6 @@
 **MSc in Numerical Simulations · Santiago, Chile (open to remote)**
 
 [![committers.top badge](https://user-badge.committers.top/chile/fcarvajalbrown.svg)](https://user-badge.committers.top/chile/fcarvajalbrown)
-[![Support my work on Ko-fi](https://img.shields.io/badge/Support_my_work-Ko--fi-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/fcarvajalbrown4)
 
 > Born to dream, made to work.
 
