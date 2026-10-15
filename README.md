@@ -19,6 +19,8 @@ I write code in Rust, Python and TypeScript, and I got to software the slow way,
 - **[MaskOps](https://github.com/fcarvajalbrown/MaskOps):** high-speed PII masking as a Polars plugin, with the heavy lifting in Rust. Privacy that does not cost you your throughput.
 - **[MuniGPT](https://github.com/fcarvajalbrown/MuniGPT):** a cybersecurity compliance scanner and an offline legal assistant, written in Rust, that audits Chilean public agencies against Law 21.663 without sending a byte off the machine. The law set the bar. This checks who clears it.
 - **[Keel](https://github.com/fcarvajalbrown/Keel):** a deterministic, open-source Python engine that mixes finished stems and masters them to an exact LUFS target. Same input, same master, every time.
+- **[port-scanner](https://github.com/fcarvajalbrown/port-scanner):** my first real project, an infrastructure recon and exploitation framework for authorized pentesting, built by hand copy-pasting with an early AI coding assistant before I moved to agentic coding. Still the one I'm proudest of, for where it started.
+- **[SKPFORGE](https://github.com/fcarvajalbrown/SKPFORGE):** a SketchUp-to-Unreal-Engine-5 asset pipeline in Rust. Repairs geometry, retopologizes to quads, fixes tiling and lightmap UVs, bakes, and exports glTF. Models go in broken, they come out ready to ship.
 
 ## Open to work
 I'm looking for engineering roles, remote-friendly, where the work means something. If you build things that serve people, let's talk.
