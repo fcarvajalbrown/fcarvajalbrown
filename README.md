@@ -20,7 +20,7 @@ I write code in Rust, Python and TypeScript, and I got to software the slow way,
 - **[MuniGPT](https://github.com/fcarvajalbrown/MuniGPT):** a cybersecurity compliance scanner and an offline legal assistant, written in Rust, that audits Chilean public agencies against Law 21.663 without sending a byte off the machine. The law set the bar. This checks who clears it.
 - **[Keel](https://github.com/fcarvajalbrown/Keel):** a deterministic, open-source Python engine that mixes finished stems and masters them to an exact LUFS target. Same input, same master, every time.
 - **[port-scanner](https://github.com/fcarvajalbrown/port-scanner):** my first real project, an infrastructure recon and exploitation framework for authorized pentesting, built by hand copy-pasting with an early AI coding assistant before I moved to agentic coding. Still the one I'm proudest of, for where it started.
-- **[Brown Marco Creator](https://github.com/fcarvajalbrown/Brown-Marco-Creator):** my own game engine and editor in C++, built around the Unreal Engine 4.27 workflow I love. Blueprint-style visual scripting, imports kept as the files you made, and a lighter load on players' hardware. Epic plans to deprecate Blueprints in UE6. This one keeps them.
+- **[Tickora](https://github.com/fcarvajalbrown/Tickora):** my own game engine in Rust, for first-person horror in the line of Amnesia and SOMA, built so a coding agent can make a game with no editor at all. A deterministic fixed-tick core, input replay, scenario tests and headless screenshots let the engine prove the game works. Then a person plays it.
 
 ## Open to work
 I'm looking for engineering roles, remote-friendly, where the work means something. If you build things that serve people, let's talk.
