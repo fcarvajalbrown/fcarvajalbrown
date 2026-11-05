@@ -29,6 +29,6 @@ I take project-based work, remote, with Chilean clients first and teams abroad t
 
 - Email: fcarvajalbrown@gmail.com
 - LinkedIn: [linkedin.com/in/fcarvajalbrown](https://www.linkedin.com/in/fcarvajalbrown)
-- Site: [fcarvajalbrown.github.io/perport](https://fcarvajalbrown.github.io/perport/)
+- Site: [fcarvajalbrown.com](https://fcarvajalbrown.com/)
 
 The great avenues are not going to open on their own. We'll program them.
